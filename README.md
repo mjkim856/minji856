@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minji856
 - 👀 I’m interested in Backend
 - 🌱 I’m currently learning java, spring, mariaDB, aws
-- 📫 How to reach me minji856@gmail.com
+- 📫 How to reach me mjkim856@gmail.com
 
 <br>
 <br>
